@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE)</title><link href="https://40623141.github.io/w15/blog/" rel="alternate"></link><link href="https://40623141.github.io/w15/blog/feeds/all.atom.xml" rel="self"></link><id>https://40623141.github.io/w15/blog/</id><updated>2017-11-09T11:00:00+08:00</updated><entry><title>計算機程式第九週學習心得</title><link href="https://40623141.github.io/w15/blog/2017-fall-cp-w9.html" rel="alternate"></link><published>2017-11-09T11:00:00+08:00</published><updated>2017-11-09T11:00:00+08:00</updated><author><name>40623141</name></author><id>tag:40623141.github.io,2017-11-09:/w15/blog/2017-fall-cp-w9.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE)</title><link href="https://40623141.github.io/w15/" rel="alternate"></link><link href="https://40623141.github.io/w15/feeds/all.atom.xml" rel="self"></link><id>https://40623141.github.io/w15/</id><updated>2017-11-09T11:00:00+08:00</updated><entry><title>計算機程式第九週學習心得</title><link href="https://40623141.github.io/w15/2017-fall-cp-w9.html" rel="alternate"></link><published>2017-11-09T11:00:00+08:00</published><updated>2017-11-09T11:00:00+08:00</updated><author><name>40623141</name></author><id>tag:40623141.github.io,2017-11-09:/w15/2017-fall-cp-w9.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h3&gt;影片：&lt;/h3&gt;
 &lt;p&gt;https://www.youtube.com/watch?v=XHiWi99qmMc&amp;amp;feature=youtu.be&lt;/p&gt;
 &lt;iframe width="640" height="360" src="https://www.youtube.com/embed/XHiWi99qmMc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;https://vimeo.com/241909809&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/241909809" width="640" height="325" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W9"></category><category term="PyQt5"></category></entry><entry><title>計算機程式第八週學習心得</title><link href="https://40623141.github.io/w15/blog/2017-fall-cp-w8.html" rel="alternate"></link><published>2017-11-08T11:00:00+08:00</published><updated>2017-11-08T11:00:00+08:00</updated><author><name>40623141</name></author><id>tag:40623141.github.io,2017-11-08:/w15/blog/2017-fall-cp-w8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;iframe src="https://player.vimeo.com/video/241909809" width="640" height="325" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W9"></category><category term="PyQt5"></category></entry><entry><title>計算機程式第八週學習心得</title><link href="https://40623141.github.io/w15/2017-fall-cp-w8.html" rel="alternate"></link><published>2017-11-08T11:00:00+08:00</published><updated>2017-11-08T11:00:00+08:00</updated><author><name>40623141</name></author><id>tag:40623141.github.io,2017-11-08:/w15/2017-fall-cp-w8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h3&gt;影片：&lt;/h3&gt;
 &lt;p&gt;https://www.youtube.com/watch?v=oR0JMGx33Mo&lt;/p&gt;
@@ -15,7 +15,7 @@
 &lt;p&gt;https://vimeo.com/241878406&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/241878406" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h3&gt;心得：第八週學習如何操作eric6,對eric6有些初步認識,還是有些地方不熟悉,有不懂的地方要問老師或同學,才能跟上同學們的腳步。&lt;/h3&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W8"></category><category term="PyQt5"></category></entry><entry><title>計算機程式第七週學習心得</title><link href="https://40623141.github.io/w15/blog/2017-fall-cp-w7.html" rel="alternate"></link><published>2017-10-26T11:00:00+08:00</published><updated>2017-10-26T11:00:00+08:00</updated><author><name>40623141</name></author><id>tag:40623141.github.io,2017-10-26:/w15/blog/2017-fall-cp-w7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h3&gt;心得：第八週學習如何操作eric6,對eric6有些初步認識,還是有些地方不熟悉,有不懂的地方要問老師或同學,才能跟上同學們的腳步。&lt;/h3&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W8"></category><category term="PyQt5"></category></entry><entry><title>計算機程式第七週學習心得</title><link href="https://40623141.github.io/w15/2017-fall-cp-w7.html" rel="alternate"></link><published>2017-10-26T11:00:00+08:00</published><updated>2017-10-26T11:00:00+08:00</updated><author><name>40623141</name></author><id>tag:40623141.github.io,2017-10-26:/w15/2017-fall-cp-w7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h3&gt;影片：&lt;/h3&gt;
 &lt;p&gt;https://vimeo.com/240804807&lt;/p&gt;
@@ -27,7 +27,7 @@
 &lt;iframe width="640" height="360" src="https://www.youtube.com/embed/LSCFhFUxt1Y" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;心得：計算機程式這門科目，是我第一次接觸，剛開始有些陌生，有了老師和同學的幫助，到了今天第七週逐漸有些了解，學習到如何利用 Leo Editor 新增個人網誌，以及在沒網路的情況下利用近端操作，日後再推送至遠端。&lt;/h3&gt;
-&lt;h3&gt;自評成績  80分   無缺席紀錄&lt;/h3&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W7"></category><category term="PyQt5"></category></entry><entry><title>2017 Fall CP 第六週</title><link href="https://40623141.github.io/w15/blog/2017-fall-cp-w6.html" rel="alternate"></link><published>2017-10-19T11:00:00+08:00</published><updated>2017-10-19T11:00:00+08:00</updated><author><name>40623141</name></author><id>tag:40623141.github.io,2017-10-19:/w15/blog/2017-fall-cp-w6.html</id><summary type="html">&lt;p&gt;W6 PyQt5&lt;/p&gt;
+&lt;h3&gt;自評成績  80分   無缺席紀錄&lt;/h3&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W7"></category><category term="PyQt5"></category></entry><entry><title>2017 Fall CP 第六週</title><link href="https://40623141.github.io/w15/2017-fall-cp-w6.html" rel="alternate"></link><published>2017-10-19T11:00:00+08:00</published><updated>2017-10-19T11:00:00+08:00</updated><author><name>40623141</name></author><id>tag:40623141.github.io,2017-10-19:/w15/2017-fall-cp-w6.html</id><summary type="html">&lt;p&gt;W6 PyQt5&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W6 PyQt5&lt;/p&gt;
 
 
@@ -357,7 +357,7 @@ if __name__ == '__main__':
     calc.show()
     sys.exit(app.exec_())
 
-&lt;/pre&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W6"></category><category term="PyQt5"></category></entry><entry><title>2017 Fall CP 第五週</title><link href="https://40623141.github.io/w15/blog/2017-fall-cp-w5.html" rel="alternate"></link><published>2017-10-12T11:00:00+08:00</published><updated>2017-10-12T11:00:00+08:00</updated><author><name>4062</name></author><id>tag:40623141.github.io,2017-10-12:/w15/blog/2017-fall-cp-w5.html</id><summary type="html">&lt;p&gt;W5 PyQt5&lt;/p&gt;
+&lt;/pre&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W6"></category><category term="PyQt5"></category></entry><entry><title>2017 Fall CP 第五週</title><link href="https://40623141.github.io/w15/2017-fall-cp-w5.html" rel="alternate"></link><published>2017-10-12T11:00:00+08:00</published><updated>2017-10-12T11:00:00+08:00</updated><author><name>4062</name></author><id>tag:40623141.github.io,2017-10-12:/w15/2017-fall-cp-w5.html</id><summary type="html">&lt;p&gt;W5 PyQt5&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W5 PyQt5&lt;/p&gt;
 
 
@@ -687,7 +687,7 @@ if __name__ == '__main__':
     calc.show()
     sys.exit(app.exec_())
 
-&lt;/pre&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W5"></category><category term="PyQt5"></category></entry><entry><title>網際 Brython 3.3.4 程式執行環境</title><link href="https://40623141.github.io/w15/blog/4062-brython-editor-334.html" rel="alternate"></link><published>2017-10-03T11:00:00+08:00</published><updated>2017-10-03T11:00:00+08:00</updated><author><name>40623141</name></author><id>tag:40623141.github.io,2017-10-03:/w15/blog/4062-brython-editor-334.html</id><summary type="html">&lt;p&gt;Brython 程式環境可以用來練習許多 Python3 的簡單語法, 也可以納入 Javascript 程式庫, 利用 Ajax 模式結合網際瀏覽器與伺服器上的資源解決協同產品設計流程上的問題.&lt;/p&gt;
+&lt;/pre&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="W5"></category><category term="PyQt5"></category></entry><entry><title>網際 Brython 3.3.4 程式執行環境</title><link href="https://40623141.github.io/w15/4062-brython-editor-334.html" rel="alternate"></link><published>2017-10-03T11:00:00+08:00</published><updated>2017-10-03T11:00:00+08:00</updated><author><name>40623141</name></author><id>tag:40623141.github.io,2017-10-03:/w15/4062-brython-editor-334.html</id><summary type="html">&lt;p&gt;Brython 程式環境可以用來練習許多 Python3 的簡單語法, 也可以納入 Javascript 程式庫, 利用 Ajax 模式結合網際瀏覽器與伺服器上的資源解決協同產品設計流程上的問題.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Brython 程式環境可以用來練習許多 Python3 的簡單語法, 也可以納入 Javascript 程式庫, 利用 Ajax 模式結合網際瀏覽器與伺服器上的資源解決協同產品設計流程上的問題.&lt;/p&gt;
 
 
@@ -1118,7 +1118,7 @@ document["tutorial7"].bind("click", tutorial)
 &lt;p&gt;&lt;button id="get"&gt;for1.py&lt;/button&gt;&lt;button id="get_temp1"&gt;temp1.py&lt;/button&gt;&lt;button id="get_ver_and_kw"&gt;ver_and_kw.py&lt;/button&gt;&lt;button id="jansen"&gt;jansen.py&lt;/button&gt;&lt;/p&gt;
 &lt;p&gt;&lt;button id="tutorial1"&gt;tutorial1&lt;/button&gt;&lt;button id="tutorial2"&gt;tutorial2&lt;/button&gt;&lt;button id="tutorial3"&gt;tutorial3&lt;/button&gt;&lt;button id="tutorial4"&gt;tutorial4&lt;/button&gt;&lt;button id="tutorial5"&gt;tutorial5&lt;/button&gt;&lt;button id="tutorial6"&gt;tutorial6&lt;/button&gt;&lt;button id="tutorial7"&gt;tutorial7&lt;/button&gt;&lt;/p&gt;
 &lt;p&gt;Jansen 多連桿機構尺寸圖:&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/jansen_sympy.png" width="800" /&gt;&lt;/p&gt;</content><category term="2017fall"></category><category term="cp"></category><category term="brython"></category><category term="w4"></category></entry><entry><title>2017 Fall CP 第二週</title><link href="https://40623141.github.io/w15/blog/2017-fall-cadp-w2.html" rel="alternate"></link><published>2017-09-20T11:00:00+08:00</published><updated>2017-09-20T11:00:00+08:00</updated><author><name>40623141</name></author><id>tag:40623141.github.io,2017-09-20:/w15/blog/2017-fall-cadp-w2.html</id><summary type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/jansen_sympy.png" width="800" /&gt;&lt;/p&gt;</content><category term="2017fall"></category><category term="cp"></category><category term="brython"></category><category term="w4"></category></entry><entry><title>2017 Fall CP 第二週</title><link href="https://40623141.github.io/w15/2017-fall-cadp-w2.html" rel="alternate"></link><published>2017-09-20T11:00:00+08:00</published><updated>2017-09-20T11:00:00+08:00</updated><author><name>40623141</name></author><id>tag:40623141.github.io,2017-09-20:/w15/2017-fall-cadp-w2.html</id><summary type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
 
 
