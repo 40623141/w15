@@ -1262,10 +1262,14 @@ doc['ex4'].bind('click',ex4)
 &lt;/section&gt;</t>
 <t tx="leo.20180111000055.1">#自評成績
 
-出席 (20%): 20 
+出席 (20%): 20
+ 
 平時表現 (30%): 20
+
 驗收考試 (30%): 18
+
 驗收簡報 (20%): 13
+
 總分 : 70 分</t>
 <t tx="leo.20180111000508.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
