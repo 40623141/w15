@@ -1200,17 +1200,17 @@ doc['ex4'].bind('click',ex4)
 &lt;img src="https://cpa.kmol.info/40623141/raw/be42079f1a23c4aadc280022af2c77239f4048c4c544c496e87ac17cd53ca87b?m=image/png" width="350" height="400"&gt;&lt;/a&gt;</t>
 <t tx="leo.20180110222456.1">#W12
 
-說明如何開始執行 PyQt5 計算機程式的期末專案.
+* 說明如何開始執行 PyQt5 計算機程式的期末專案.
 </t>
 <t tx="leo.20180110222457.1">#W13-W15 專案執行週
 * 說明如何透過概念、知識、執行、自學與想像等欄位的標示, 整理課程學習歷程.
 * 與組員協同製作計算機基本功能
 驗收計算機成果</t>
 <t tx="leo.20180110222459.1">W16-W18
-*說明如何利用 Leo Editor 整理期末專案內容.
+* 說明如何利用 Leo Editor 整理期末專案內容.
 協力完成計算機程式
-*分組期末報告
-*錄製影片並上傳至youtube
+* 分組期末報告
+* 錄製影片並上傳至youtube
 </t>
 <t tx="leo.20180110222559.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1229,11 +1229,11 @@ doc['ex4'].bind('click',ex4)
 &lt;/section&gt;</t>
 <t tx="leo.20180110223736.1">指令:
 
-git add . 新增
+* git add . 新增
 
-git commit -m "提交訊息" 提交
+* git commit -m "提交訊息" 提交
 
-git push 推送
+* git push 推送
 
 git config --global user.name "學號"
 git config --global user.email "email"
