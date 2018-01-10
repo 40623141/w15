@@ -1270,16 +1270,16 @@ doc['ex4'].bind('click',ex4)
 
 ####驗收簡報 (20%): 13
 
-####總分 : 70 分</t>
+####總分 : 71 分</t>
 <t tx="leo.20180111000508.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20180111000510.1">#筆記
-&lt;a href="https://cpa.kmol.info/40623141/raw/bbdc80eaf8c0554658a369125dcdf03bb79068ac549920049ce4e917eec9597d?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623141/raw/bbdc80eaf8c0554658a369125dcdf03bb79068ac549920049ce4e917eec9597d?m=image/jpeg" width="200" height="250"&gt;&lt;/a&gt;
+&lt;a href="https://cpa.kmol.info/40623141/raw/bbdc80eaf8c0554658a369125dcdf03bb79068ac549920049ce4e917eec9597d?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623141/raw/bbdc80eaf8c0554658a369125dcdf03bb79068ac549920049ce4e917eec9597d?m=image/jpeg" width="100" height="150"&gt;&lt;/a&gt;
 
-&lt;a href="https://cpa.kmol.info/40623141/raw/e0c18279197aa9501885529d0be20dfbe5c68ffcae971928508d74336283c21f?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623141/raw/e0c18279197aa9501885529d0be20dfbe5c68ffcae971928508d74336283c21f?m=image/jpeg" width="200" height="250"&gt;&lt;/a&gt;</t>
+&lt;a href="https://cpa.kmol.info/40623141/raw/e0c18279197aa9501885529d0be20dfbe5c68ffcae971928508d74336283c21f?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623141/raw/e0c18279197aa9501885529d0be20dfbe5c68ffcae971928508d74336283c21f?m=image/jpeg" width="100" height="150"&gt;&lt;/a&gt;</t>
 <t tx="leo.20180111001126.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
