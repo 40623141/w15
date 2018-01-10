@@ -126,11 +126,17 @@
 </v>
 </v>
 <v t="leo.20180110222408.1" a="E"><vh>W16-18</vh>
-<v t="leo.20180110222423.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180110222423.1"><vh>newHeadline</vh>
 <v t="leo.20180110222459.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20180110232934.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180111000508.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180111000510.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180110232934.1"><vh>newHeadline</vh>
 <v t="leo.20180110232937.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180111000053.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180111000055.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20170911090822.1"><vh>隨身碟內容介紹</vh>
@@ -1246,6 +1252,27 @@ doc['ex4'].bind('click',ex4)
 &lt;/section&gt;</t>
 <t tx="leo.20180110232937.1">#心得
 從第一開始我對這堂課是一無所知，到現在已經略懂一些，從fossil到github，我學到了很多我以前沒接觸到過內容，這次期末報告中大家都很努力，有不會的，同學也會互相幫助，互相討論之後變得更加的了解，每次的問題都能讓我更上一層，希望有機會可以學習更多，或許很難理解，但我相信我可以循序漸進對這門科更加熟悉。</t>
+<t tx="leo.20180111000053.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180111000055.1">#自評成績
+
+出席 (20%): 20 
+平時表現 (30%): 20
+驗收考試 (30%): 18
+驗收簡報 (20%): 13
+總分 : 70 分</t>
+<t tx="leo.20180111000508.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180111000510.1">#筆記
+&lt;a href="https://cpa.kmol.info/40623141/raw/bbdc80eaf8c0554658a369125dcdf03bb79068ac549920049ce4e917eec9597d?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623141/raw/bbdc80eaf8c0554658a369125dcdf03bb79068ac549920049ce4e917eec9597d?m=image/jpeg" width="200" height="250"&gt;&lt;/a&gt;
+
+&lt;a href="https://cpa.kmol.info/40623141/raw/e0c18279197aa9501885529d0be20dfbe5c68ffcae971928508d74336283c21f?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623141/raw/e0c18279197aa9501885529d0be20dfbe5c68ffcae971928508d74336283c21f?m=image/jpeg" width="200" height="250"&gt;&lt;/a&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
