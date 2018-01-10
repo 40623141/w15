@@ -89,7 +89,7 @@
 <v t="leo.20171108201353.1"><vh>newHeadline</vh></v>
 </v>
 </v>
-<v t="leo.20171108204112.1"><vh>W7-W9</vh>
+<v t="leo.20171108204112.1" a="E"><vh>W7-W9</vh>
 <v t="leo.20171108204551.1" a="E"><vh>newHeadline</vh>
 <v t="leo.20171108204556.1"><vh>newHeadline</vh></v>
 </v>
@@ -110,7 +110,7 @@
 <v t="leo.20180110222425.1" a="E"><vh>W10</vh>
 <v t="leo.20180110222454.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20180110222559.1"><vh>W11</vh>
+<v t="leo.20180110222559.1" a="E"><vh>W11</vh>
 <v t="leo.20180110222626.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20180110223733.1" a="E"><vh>W11</vh>
@@ -128,6 +128,9 @@
 <v t="leo.20180110222408.1" a="E"><vh>W16-18</vh>
 <v t="leo.20180110222423.1" a="E"><vh>newHeadline</vh>
 <v t="leo.20180110222459.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180110232934.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180110232937.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20170911090822.1"><vh>隨身碟內容介紹</vh>
@@ -1190,7 +1193,9 @@ doc['ex4'].bind('click',ex4)
 <t tx="leo.20180110222457.1">#W13-W15 
 * 說明如何透過概念、知識、執行、自學與想像等欄位的標示, 整理課程學習歷程.
 * 與組員協同製作計算機基本功能
-驗收計算機成果</t>
+驗收計算機成果
+
+&lt;img src="https://cpa.kmol.info/40623141/raw/881a8c89c5909f2b46253450a06ba1037db73a31e34b23163ac8c4a76d980654?m=image/png" width="500" height="200"&gt;&lt;/a&gt;</t>
 <t tx="leo.20180110222459.1">#W16-W18
 * 說明如何利用 Leo Editor 整理期末專案內容.
 協力完成計算機程式
@@ -1220,8 +1225,8 @@ doc['ex4'].bind('click',ex4)
 
 * git push 推送
 
-git config --global user.name "學號"
-git config --global user.email "email"
+* git config --global user.name "學號"
+* git config --global user.email "email"
 
 以此兩行指令輸入使用者資料
 </t>
@@ -1233,7 +1238,14 @@ git config --global user.email "email"
 <t tx="leo.20180110232337.1">#W12
 * 說明如何開始執行 PyQt5 計算機程式的期末專案.
 
-&lt;img src="https://cpa.kmol.info/40623141/raw/dadf75366d36f85aa25fc483cb18f4438ecaccca47d32ec7ee0072200cc70b9c?m=image/png" width="350" height="500"&gt;&lt;/a&gt;</t>
+&lt;img src="https://cpa.kmol.info/40623141/raw/dadf75366d36f85aa25fc483cb18f4438ecaccca47d32ec7ee0072200cc70b9c?m=image/png" width="350" height="400"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180110232934.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110232937.1">#心得
+從第一開始我對這堂課是一無所知，到現在已經略懂一些，從fossil到github，我學到了很多我以前沒接觸到過內容，這次期末報告中大家都很努力，有不會的，同學也會互相幫助，互相討論之後變得更加的了解，每次的問題都能讓我更上一層，希望有機會可以學習更多，或許很難理解，但我相信我可以循序漸進對這門科更加熟悉。</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
