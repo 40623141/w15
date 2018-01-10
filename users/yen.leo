@@ -89,7 +89,7 @@
 <v t="leo.20171108201353.1"><vh>newHeadline</vh></v>
 </v>
 </v>
-<v t="leo.20171108204112.1" a="E"><vh>W7-W9</vh>
+<v t="leo.20171108204112.1"><vh>W7-W9</vh>
 <v t="leo.20171108204551.1" a="E"><vh>newHeadline</vh>
 <v t="leo.20171108204556.1"><vh>newHeadline</vh></v>
 </v>
@@ -104,6 +104,29 @@
 </v>
 <v t="leo.20171108212130.1"><vh>成績</vh>
 <v t="leo.20171108212147.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20180110222308.1" a="E"><vh>W10 11</vh>
+<v t="leo.20180110222425.1" a="E"><vh>W10</vh>
+<v t="leo.20180110222454.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180110222559.1" a="E"><vh>W11</vh>
+<v t="leo.20180110222626.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20180110222309.1" a="E"><vh>W12</vh>
+<v t="leo.20180110222432.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180110222456.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20180110222309.2" a="E"><vh>W12</vh>
+<v t="leo.20180110222433.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180110222457.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20180110222408.1" a="E"><vh>W13</vh>
+<v t="leo.20180110222423.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180110222459.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20170911090822.1"><vh>隨身碟內容介紹</vh>
@@ -1130,6 +1153,63 @@ doc['ex4'].bind('click',ex4)
 &lt;a href="https://cpa.kmol.info/40623141/raw/df12c8f03b811470a6dc4704a1feddb5eeb0934189513d0831ae3e5c43c67b80?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623141/raw/df12c8f03b811470a6dc4704a1feddb5eeb0934189513d0831ae3e5c43c67b80?m=image/jpeg" width="200" height="250"&gt;&lt;/a&gt;
 &lt;a href="https://cpa.kmol.info/40623141/raw/e0c18279197aa9501885529d0be20dfbe5c68ffcae971928508d74336283c21f?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623141/raw/e0c18279197aa9501885529d0be20dfbe5c68ffcae971928508d74336283c21f?m=image/jpeg" width="200" height="250"&gt;&lt;/a&gt;
 
+</t>
+<t tx="leo.20180110222308.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180110222309.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180110222309.2">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180110222408.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180110222423.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110222425.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110222432.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110222433.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110222454.1">#W10
+*如何客製化 start.bat 開啟 Leo Editor.
+
+
+&lt;img src="https://cpa.kmol.info/40623141/raw/be42079f1a23c4aadc280022af2c77239f4048c4c544c496e87ac17cd53ca87b?m=image/png" width="600" height="550"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180110222456.1">#W12
+*合力做出計算機程式
+</t>
+<t tx="leo.20180110222457.1"></t>
+<t tx="leo.20180110222459.1">W13-W15
+*說明如何利用 Leo Editor 整理期末專案內容.
+協力完成計算機程式
+*錄製影片並上傳至youtube</t>
+<t tx="leo.20180110222559.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110222626.1">*新增github帳戶
+* Github 倉儲中新增協同者, 以及協同者如何接受邀請.
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
