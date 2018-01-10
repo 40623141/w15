@@ -110,16 +110,14 @@
 <v t="leo.20180110222425.1" a="E"><vh>W10</vh>
 <v t="leo.20180110222454.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20180110222559.1" a="E"><vh>W11</vh>
+<v t="leo.20180110222559.1"><vh>W11</vh>
 <v t="leo.20180110222626.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20180110223733.1" a="E"><vh>W11</vh>
 <v t="leo.20180110223736.1"><vh>newHeadline</vh></v>
 </v>
-</v>
-<v t="leo.20180110222309.1" a="E"><vh>W12</vh>
-<v t="leo.20180110222432.1" a="E"><vh>newHeadline</vh>
-<v t="leo.20180110222456.1"><vh>newHeadline</vh></v>
+<v t="leo.20180110232326.1" a="E"><vh>W12</vh>
+<v t="leo.20180110232337.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20180110222309.2" a="E"><vh>W13-W15</vh>
@@ -1161,10 +1159,6 @@ doc['ex4'].bind('click',ex4)
     @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20180110222309.1">&lt;section&gt;
-    @others
-&lt;/section&gt;
-</t>
 <t tx="leo.20180110222309.2">&lt;section&gt;
     @others
 &lt;/section&gt;
@@ -1183,11 +1177,6 @@ doc['ex4'].bind('click',ex4)
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180110222432.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
 <t tx="leo.20180110222433.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1198,15 +1187,11 @@ doc['ex4'].bind('click',ex4)
 
 
 &lt;img src="https://cpa.kmol.info/40623141/raw/be42079f1a23c4aadc280022af2c77239f4048c4c544c496e87ac17cd53ca87b?m=image/png" width="350" height="400"&gt;&lt;/a&gt;</t>
-<t tx="leo.20180110222456.1">#W12
-
-* 說明如何開始執行 PyQt5 計算機程式的期末專案.
-</t>
-<t tx="leo.20180110222457.1">#W13-W15 專案執行週
+<t tx="leo.20180110222457.1">#W13-W15 
 * 說明如何透過概念、知識、執行、自學與想像等欄位的標示, 整理課程學習歷程.
 * 與組員協同製作計算機基本功能
 驗收計算機成果</t>
-<t tx="leo.20180110222459.1">W16-W18
+<t tx="leo.20180110222459.1">#W16-W18
 * 說明如何利用 Leo Editor 整理期末專案內容.
 協力完成計算機程式
 * 分組期末報告
@@ -1240,6 +1225,15 @@ git config --global user.email "email"
 
 以此兩行指令輸入使用者資料
 </t>
+<t tx="leo.20180110232326.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110232337.1">#W12
+* 說明如何開始執行 PyQt5 計算機程式的期末專案.
+
+&lt;img src="https://cpa.kmol.info/40623141/raw/dadf75366d36f85aa25fc483cb18f4438ecaccca47d32ec7ee0072200cc70b9c?m=image/png" width="350" height="500"&gt;&lt;/a&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
