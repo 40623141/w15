@@ -89,7 +89,7 @@
 <v t="leo.20171108201353.1"><vh>newHeadline</vh></v>
 </v>
 </v>
-<v t="leo.20171108204112.1" a="E"><vh>W7-W9</vh>
+<v t="leo.20171108204112.1"><vh>W7-W9</vh>
 <v t="leo.20171108204551.1" a="E"><vh>newHeadline</vh>
 <v t="leo.20171108204556.1"><vh>newHeadline</vh></v>
 </v>
@@ -105,6 +105,9 @@
 <v t="leo.20171108212130.1"><vh>成績</vh>
 <v t="leo.20171108212147.1"><vh>newHeadline</vh></v>
 </v>
+</v>
+<v t="leo.20180111001126.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20180111001126.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180110222308.1" a="E"><vh>W10 11 12</vh>
 <v t="leo.20180110222425.1" a="E"><vh>W10</vh>
@@ -1273,6 +1276,29 @@ doc['ex4'].bind('click',ex4)
 &lt;a href="https://cpa.kmol.info/40623141/raw/bbdc80eaf8c0554658a369125dcdf03bb79068ac549920049ce4e917eec9597d?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623141/raw/bbdc80eaf8c0554658a369125dcdf03bb79068ac549920049ce4e917eec9597d?m=image/jpeg" width="200" height="250"&gt;&lt;/a&gt;
 
 &lt;a href="https://cpa.kmol.info/40623141/raw/e0c18279197aa9501885529d0be20dfbe5c68ffcae971928508d74336283c21f?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623141/raw/e0c18279197aa9501885529d0be20dfbe5c68ffcae971928508d74336283c21f?m=image/jpeg" width="200" height="250"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180111001126.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180111001126.2">## 2017Fall  CP
+
+### 虎科大機械設計工程系
+
+設計一甲40623141何立翔
+
+&lt;small&gt;
+Created by [40623141](https://cpa.kmol.info/40623141/doc/trunk/blog/)
+&lt;/small&gt;
+
+[40623141 的 CP 課程網誌](blog/index.html)
+
+
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
